@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyLogger", "KeyLogger\KeyLogger.csproj", "{9AC77567-7A60-4864-A71C-40B3628A0C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyDecryptor", "KeyDecryptor\KeyDecryptor.csproj", "{10E94441-A065-4E83-8B80-A4AFDA300C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC77567-7A60-4864-A71C-40B3628A0C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC77567-7A60-4864-A71C-40B3628A0C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC77567-7A60-4864-A71C-40B3628A0C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC77567-7A60-4864-A71C-40B3628A0C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E94441-A065-4E83-8B80-A4AFDA300C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E94441-A065-4E83-8B80-A4AFDA300C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E94441-A065-4E83-8B80-A4AFDA300C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E94441-A065-4E83-8B80-A4AFDA300C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {902714F8-C866-46AA-843D-FB563A1C02AD}
+	EndGlobalSection
+EndGlobal
